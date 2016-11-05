@@ -1,0 +1,16 @@
+PODS:
+  - PixelMplus (0.1.0)
+
+DEPENDENCIES:
+  - PixelMplus (from `../`)
+
+EXTERNAL SOURCES:
+  PixelMplus:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PixelMplus: 06d81d7426d50c2ed5959d18e3e805057093e672
+
+PODFILE CHECKSUM: 43dffc55fd5b26cb69a389b5508555104ff71cc0
+
+COCOAPODS: 1.1.0
